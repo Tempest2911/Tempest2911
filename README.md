@@ -75,10 +75,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=60&section=header" width="100%">
+<br>
   
 <h3>🌐 Connect With Me</h3>
 <p>
@@ -112,4 +109,6 @@
   <img src="https://moe-counter.glitch.me/get/@Tempest2911?theme=rule34" alt="Tempest2911 Moe Counter">
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=60&section=header" width="100%">
 </div>
