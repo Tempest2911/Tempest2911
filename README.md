@@ -80,17 +80,34 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=60&section=header" width="100%">
   
-  <h3>🌐 Connect With Me</h3>
-  <p>
-    <a href="https://twitter.com/">
-      <img src="https://x.com/Tempest149973"/>
-    </a>
-    <a href="https://discord.com/">
-      <img src="https://discord.com/users/1401971327044423682"/>
-    </a>
-  </p>
+<h3>🌐 Connect With Me</h3>
+<p>
+  <a href="https://x.com/Tempest149973" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)">
+  </a>
+
+  <a href="https://discord.com/users/1401971327044423682" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
+  <a href="https://steamcommunity.com/id/tempest2911/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
+
+  <a href="https://www.roblox.com/users/1311260365/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox">
+  </a>
+
+  <a href="https://open.spotify.com/user/31ikgkg4wbyrnevtwfj3mrsvfvle?si=838d0074c9984cf5" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+
+  <a href="https://myanimelist.net/profile/Tempest2911" target="_blank">
+    <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList">
+  </a>
+</p>
   
-  <p><i>"Thanks for visiting my profile! Have a wonderful day! ヾ(≧▽≦*)o"</i></p>
+  <p><i>"Thanks for visiting my profile! Hope you have a wonderful day! ヾ(≧▽≦*)o"</i></p>
 
   <img src="https://moe-counter.glitch.me/get/@Tempest2911?theme=rule34" alt="Tempest2911 Moe Counter">
 </div>
