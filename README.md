@@ -10,13 +10,13 @@
 
 <table border="0" align="center" style="border-collapse: collapse; border: none; max-width: 800px;">
   <tr style="border: none;">
-    <td width="60%" valign="center" style="border: none;">
-      <h3>⚡ <span style="color: #00e5ff;">Mission Status</span></h3>
+    <td width="60%" valign="center" style="border: none; padding-right: 20px;">
+      <h2>⚡ <span style="color: #00e5ff;">Mission Status</span></h2>
       <ul>
-        <li>🔭 Fell in love with Car and Plane</li>
-        <li>🚀 Roadmap: Become an Automotive Software Engineer.</li>
-        <li>🛠️ Focus: Backend Systems, Algorithmic Logic, and Improve Myself.</li>
-        <li>💬 <i>"Engineered for performance, Coded for impact."</i></li>
+        <li style="font-size: 18px; margin-bottom: 8px;">🔭 Fell in love with Car and Plane</li>
+        <li style="font-size: 18px; margin-bottom: 8px;">🚀 Roadmap: Become an Automotive Software Engineer.</li>
+        <li style="font-size: 18px; margin-bottom: 8px;">🛠️ Focus: Backend Systems, Algorithmic Logic, and Improve Myself.</li>
+        <li style="font-size: 18px; margin-bottom: 8px;">💬 <i>"Engineered for performance, Coded for impact."</i></li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
