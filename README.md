@@ -13,7 +13,7 @@
     <td width="60%" valign="center" style="border: none; padding-right: 20px;">
       <h2>⚡ <span style="color: #00e5ff;">Mission Status</span></h2>
       <ul>
-        <li style="font-size: 18px; margin-bottom: 8px;">🔭 Fell in love with Car and Plane</li>
+        <li style="font-size: 18px; margin-bottom: 8px;">🔭 Fell in love with Car and Plane.</li>
         <li style="font-size: 18px; margin-bottom: 8px;">🚀 Roadmap: Become an Automotive Software Engineer.</li>
         <li style="font-size: 18px; margin-bottom: 8px;">🛠️ Focus: Backend Systems, Algorithmic Logic, and Improve Myself.</li>
         <li style="font-size: 18px; margin-bottom: 8px;">💬 <i>"Engineered for performance, Coded for impact."</i></li>
