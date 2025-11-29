@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/06/c5/24/06c5249d7cb52662694e86dc68143b13.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px" alt="Anime Cyberpunk City Banner">
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=SYSTEM_BREACH...;Tempest+is+Online!;BRRRRRRRRRRRRT!!!;Ferrari+LaFerrari;Porsche+911+GT3+RS;McLaren+P1;F-14+TomCat;Boeing+747-400;Coding+at+Mach+2.0+Speed.&font=Fira+Code&center=true&width=550&height=50&color=39ff14&vCenter=true&size=22&pause=1000">
 </a>
