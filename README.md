@@ -58,14 +58,6 @@
 
 <br>
 
-<h3>📈 <span style="color: #9d00ff;">Data Stream</span></h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tempest2911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=39ff14" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tempest2911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff" />
-</p>
-
-<br>
-
 <h3>🐍 <span style="color: #39ff14;">Contribution Snake</span></h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
